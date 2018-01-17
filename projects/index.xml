@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Kiran Arun</title>
-    <link>http://kiran.codes/projects/</link>
+    <link>https://kiranarun.github.io/projects/</link>
     <description>Recent content in Projects on Kiran Arun</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 13 Nov 2017 12:21:21 -0500</lastBuildDate>
     
-	<atom:link href="http://kiran.codes/projects/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kiranarun.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Machine Learning and Software Engineering</title>
-      <link>http://kiran.codes/projects/machine_learning/</link>
+      <link>https://kiranarun.github.io/projects/machine_learning/</link>
       <pubDate>Mon, 13 Nov 2017 12:21:21 -0500</pubDate>
       
-      <guid>http://kiran.codes/projects/machine_learning/</guid>
+      <guid>https://kiranarun.github.io/projects/machine_learning/</guid>
       <description> ML Micromasters, edX CSMM.102x Sine Wave Prediction using an RNN • YouTube Predicting Movement of a Linear Particle in One Dimension Motion tracking with OpenCV and an RPI Servo gimbal controller and i2c receiver  </description>
     </item>
     
     <item>
       <title>Acorn Aspirations</title>
-      <link>http://kiran.codes/projects/acorn_aspirations/</link>
+      <link>https://kiranarun.github.io/projects/acorn_aspirations/</link>
       <pubDate>Mon, 13 Nov 2017 12:21:16 -0500</pubDate>
       
-      <guid>http://kiran.codes/projects/acorn_aspirations/</guid>
+      <guid>https://kiranarun.github.io/projects/acorn_aspirations/</guid>
       <description> I&amp;rsquo;m currently involved with Acorn Aspirations I have been to three events:
  AcornHackAI, 17-18th June 2017 AcornAccelerator2017, 7-18th August 2017 AcornHackVR, 18-19th November 2017   I learnt the following skills:
  Agile methodology Lean methdology Design thinking Buisness models Pitching  </description>
@@ -33,10 +33,10 @@
     
     <item>
       <title>Personal</title>
-      <link>http://kiran.codes/projects/personal/</link>
+      <link>https://kiranarun.github.io/projects/personal/</link>
       <pubDate>Mon, 13 Nov 2017 12:21:11 -0500</pubDate>
       
-      <guid>http://kiran.codes/projects/personal/</guid>
+      <guid>https://kiranarun.github.io/projects/personal/</guid>
       <description> DIY RC Planes Carbon Fibre TriCopter A-Level Maths and Physics  Differentiation Notebook Electronics Notebook   </description>
     </item>
     

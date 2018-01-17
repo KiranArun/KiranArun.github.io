@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kiran Arun</title>
-    <link>http://kiran.codes/</link>
+    <link>https://kiranarun.github.io/</link>
     <description>Recent content on Kiran Arun</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 13 Nov 2017 12:21:21 -0500</lastBuildDate>
     
-	<atom:link href="http://kiran.codes/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kiranarun.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Machine Learning and Software Engineering</title>
-      <link>http://kiran.codes/projects/machine_learning/</link>
+      <link>https://kiranarun.github.io/projects/machine_learning/</link>
       <pubDate>Mon, 13 Nov 2017 12:21:21 -0500</pubDate>
       
-      <guid>http://kiran.codes/projects/machine_learning/</guid>
+      <guid>https://kiranarun.github.io/projects/machine_learning/</guid>
       <description> ML Micromasters, edX CSMM.102x Sine Wave Prediction using an RNN • YouTube Predicting Movement of a Linear Particle in One Dimension Motion tracking with OpenCV and an RPI Servo gimbal controller and i2c receiver  </description>
     </item>
     
     <item>
       <title>Acorn Aspirations</title>
-      <link>http://kiran.codes/projects/acorn_aspirations/</link>
+      <link>https://kiranarun.github.io/projects/acorn_aspirations/</link>
       <pubDate>Mon, 13 Nov 2017 12:21:16 -0500</pubDate>
       
-      <guid>http://kiran.codes/projects/acorn_aspirations/</guid>
+      <guid>https://kiranarun.github.io/projects/acorn_aspirations/</guid>
       <description> I&amp;rsquo;m currently involved with Acorn Aspirations I have been to three events:
  AcornHackAI, 17-18th June 2017 AcornAccelerator2017, 7-18th August 2017 AcornHackVR, 18-19th November 2017   I learnt the following skills:
  Agile methodology Lean methdology Design thinking Buisness models Pitching  </description>
@@ -33,28 +33,28 @@
     
     <item>
       <title>Personal</title>
-      <link>http://kiran.codes/projects/personal/</link>
+      <link>https://kiranarun.github.io/projects/personal/</link>
       <pubDate>Mon, 13 Nov 2017 12:21:11 -0500</pubDate>
       
-      <guid>http://kiran.codes/projects/personal/</guid>
+      <guid>https://kiranarun.github.io/projects/personal/</guid>
       <description> DIY RC Planes Carbon Fibre TriCopter A-Level Maths and Physics  Differentiation Notebook Electronics Notebook   </description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>http://kiran.codes/contact/</link>
+      <link>https://kiranarun.github.io/contact/</link>
       <pubDate>Thu, 09 Mar 2017 13:23:28 +0800</pubDate>
       
-      <guid>http://kiran.codes/contact/</guid>
+      <guid>https://kiranarun.github.io/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://kiran.codes/about/</link>
+      <link>https://kiranarun.github.io/about/</link>
       <pubDate>Thu, 09 Mar 2017 13:19:25 +0800</pubDate>
       
-      <guid>http://kiran.codes/about/</guid>
+      <guid>https://kiranarun.github.io/about/</guid>
       <description>High School opt-out, Self-directed education opt-in.
 Currently studying&amp;hellip;
  Machine Learning Agile workflows LEAN development the uses of A.I.  Just beginning my path into London’s tech startup culture.</description>
@@ -62,10 +62,10 @@ Currently studying&amp;hellip;
     
     <item>
       <title>Why I Do This</title>
-      <link>http://kiran.codes/blog/why_i_do_this/</link>
+      <link>https://kiranarun.github.io/blog/why_i_do_this/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://kiran.codes/blog/why_i_do_this/</guid>
+      <guid>https://kiranarun.github.io/blog/why_i_do_this/</guid>
       <description>Why I left school (aged 15, UK Year 10)
  My time and mental energy were being used unproductively The GCSE system forced me to work towards achieving a high-average I aspire to achieve great things but structured mass schooling will erode my competitiveness and demotivate me I don&amp;rsquo;t mind failing, because it gains you a visible, quantifiable error from which to learn  Why I learn ML
  It&amp;rsquo;s the future and it&amp;rsquo;s cutting-edge I enjoy the construction of a project/system (of models, maths and computational systems) Potential to make a big positive contribution to the nation of Earth.</description>
