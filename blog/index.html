@@ -14,10 +14,10 @@
 <title>
 
 
-     404 Page not found 
+     Blogs 
 
 </title>
-<link rel="canonical" href="">
+<link rel="canonical" href="http://kiran.codes/blog/">
 
 
 
@@ -59,7 +59,7 @@ crossorigin="anonymous"></script>
 
 
 
-  <link href="http://kiran.codes/index.xml" rel="alternate" type="application/rss+xml" title="Kiran Arun" />
+  <link href="http://kiran.codes/blog/index.xml" rel="alternate" type="application/rss+xml" title="Kiran Arun" />
 
 
 </head>
@@ -69,12 +69,12 @@ crossorigin="anonymous"></script>
 
 <div class="section" id="top">
 
-    <div class="container hero is-medium has-text-centered  fade-in one ">
-    <h1 class="bold-title is-1">404</h1>
+    <div class="container hero  fade-in one ">
+    <h1 class="bold-title is-1">Why I Do This</h1>
     </div>
 
-
-<div class="section  fade-in two ">
+    
+    <div class="section no-padding  fade-in two ">
 
     <div class="container">
     <hr>
@@ -91,9 +91,11 @@ crossorigin="anonymous"></script>
       <span class="nav-item">
         <a href="http://kiran.codes/#about">About</a> 
       </span>
+    
       <span class="nav-item">
-        <a href="http://kiran.codes/">Back to </a>
-      </span> 
+        <a href="http://kiran.codes/#projects">Projects</a> 
+      </span>
+    
       <span class="nav-item">
         <a href="http://kiran.codes/#contact">Contact</a>
       </span>
@@ -106,12 +108,30 @@ crossorigin="anonymous"></script>
 </nav>
 <hr>
     </div>
+       
+    <div class="container">
 
-    <div class="container  fade-in two  top-pad">
-        Oops! Either you've found a bug (in which case, <a href="mailto:kironni@gmail.com">please tell me</a>) or you're just making things up. This page doesn't exist!
+    
+
+    <h2 class="title is-2 top-pad">All Posts</h2>
+        <ul>
+        
+            
+                <li class="post-item">
+    <span><a href="http://kiran.codes/blog/why_i_do_this/">Why I Do This</a></span> - <span>Jan 1, 0001</span>
+</li>
+            
+        
+        </ul>
+
     </div>
 
-<div class="top-pad"><hr></div>
+<div class="container has-text-centered top-pad">
+<hr>
+<a href="http://kiran.codes/blog/#top"><i class="fa fa-arrow-up"></i></a>
+<hr>
+</div>
+
 <div class="section" id="footer">
     <div class="container has-text-centered">
         
@@ -121,3 +141,18 @@ crossorigin="anonymous"></script>
 </div>
 
 </div>
+</div>
+
+
+<script>
+$('a[href^="http:\/\/kiran.codes\/blog\/#"]').click(function(e) {
+    e.preventDefault();
+    var target = this.hash;
+    $('html, body').animate({
+    scrollTop: $(target).offset().top
+    }, 500);
+    return false;
+})
+</script>
+
+</body>
